@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Patole</h1>
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
-<img src="[img_girl.jpg](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)" alt="Girl in a jacket" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Girl in a jacket" width="500" height="600">
 
 <p align="left"> <a href="https://twitter.com/om_patole" target="blank"><img src="https://img.shields.io/twitter/follow/om_patole?logo=twitter&style=for-the-badge" alt="om_patole" /></a> </p>
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/om_patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="om_patole" height="30" width="40" /></a>
+<a href="https://twitter.com/om_patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Om_patole3030" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/om-patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-patole" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/om_patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="om_patole" height="30" width="40" /></a>
 </p>
