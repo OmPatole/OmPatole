@@ -1,5 +1,5 @@
-![Header](./github-header-image.gif)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Om Patole</h1>
+<img src="./github-header-image.gif" alt="Girl in a jacket" width="300" height="400" align="centere" >
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Om Patole</h1>
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Girl in a jacket" width="300" height="400" align="right" >
 
