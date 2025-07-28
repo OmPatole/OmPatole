@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Om Patole</h1>
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Girl in a jacket" width="300" height="400" align="right" >
