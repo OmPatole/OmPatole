@@ -4,25 +4,23 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Om Patole</h1>
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
 
-<p align="left"> <a href="https://twitter.com/Om_patole3030" target="blank"><img src="https://img.shields.io/twitter/follow/om_patole?logo=twitter&style=for-the-badge" alt="om_patole" /></a> </p>
-
 - 🔭 I’m currently working on **My new Skills**
 
 - 🌱 I’m currently learning **Cybersecurity | Cloud Computing**
 
 - 🤝 I’m looking for help with **MERN**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ompatole.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](ompatole.github.io/Portfolio)
 
 - 💬 Ask me about **React, Bash, Linux, Cloud**
 
-- 📫 How to reach me  **ompatole3030@gmail.com**
+- 📫 How to reach me **ompatole3030@gmail.com**
 
 - ⚡ Fun fact **I write code with one hand and try to break it with the other.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/om_patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Om_patole3030" height="30" width="40" /></a>
+<a href="https://twitter.com/om_patole3030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="om_patole3030" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/om-patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-patole" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/om_patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="om_patole" height="30" width="40" /></a>
 </p>
@@ -34,3 +32,4 @@
   &nbsp; &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ompatole&theme=dark" alt="ompatole's GitHub Streak Stats" width="350" />
 </p>
+
