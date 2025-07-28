@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **MERN**
 
-- 👨‍💻 All of my projects are available at [Portfolio](ompatole.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ompatole.github.io/Portfolio)
 
 - 💬 Ask me about **React, Bash, Linux, Cloud**
 
