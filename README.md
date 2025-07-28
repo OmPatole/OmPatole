@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Coding at night animation" width="498">
+  <img src="./github-header-image.gif" alt="Coding at night animation" width="498">
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Om Patole</h1>
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
