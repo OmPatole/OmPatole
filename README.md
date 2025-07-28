@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Bash, Linux, Cloud**
 
-- 📫 How to reach me **ompatole3030@gmail.com**
+- 📫 How to reach me `ompatole3030@gmail.com`
 
 - ⚡ Fun fact **I write code with one hand and try to break it with the other.**
 
