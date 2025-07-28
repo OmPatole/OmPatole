@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Om Patole</h1>
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Girl in a jacket" width="300" height="400" align="right" border-radius: 15px >
 
 <p align="left"> <a href="https://twitter.com/Om_patole3030" target="blank"><img src="https://img.shields.io/twitter/follow/om_patole?logo=twitter&style=for-the-badge" alt="om_patole" /></a> </p>
 
