@@ -29,5 +29,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ompatole&show_icons=true&locale=en&theme=dark" alt="ompatole's GitHub Stats" width="350" />
   &nbsp; &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ompatole&theme=dark" alt="ompatole's GitHub Streak Stats" width="350" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=ompatole&theme=dark](https://streak-stats.demolab.com/?user=ompatole&theme=dark)" alt="ompatole's GitHub Streak Stats" width="350" />
 </p>
