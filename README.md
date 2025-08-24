@@ -27,10 +27,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
+    <img src="https://skillicons.dev/icons?i=aws" height="30" width="12" alt="aws logo" />
   </a>
-  <img width="12" />
-
   <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo" />
   </a>
