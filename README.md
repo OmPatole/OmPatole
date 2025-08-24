@@ -27,118 +27,97 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" height="30" width="12" alt="aws logo" />
+    <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
   </a>
+  <img width="12" />
   <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.w3schools.com/cpp" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
   </a>
   <img width="12" />
-
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
   </a>
   <img width="12" />
-
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
   </a>
   <img width="12" />
-
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="google cloud logo" />
   </a>
   <img width="12" />
-
   <a href="https://go.dev" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo" />
   </a>
   <img width="12" />
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
   </a>
   <img width="12" />
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
   </a>
   <img width="12" />
-
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
   </a>
   <img width="12" />
-
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=pandas" height="30" alt="pandas logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
   </a>
   <img width="12" />
-
   <a href="https://pytorch.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo" />
   </a>
   <img width="12" />
-
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
   </a>
   <img width="12" />
-
   <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=reactnative" height="30" alt="react native logo" />
   </a>
   <img width="12" />
-
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
   </a>
   <img width="12" />
-
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo" />
   </a>
