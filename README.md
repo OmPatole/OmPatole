@@ -129,4 +129,5 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ompatole&theme=dark" alt="ompatole's GitHub Streak Stats" width="350" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ompatole&show_icons=true&locale=en&layout=compact&theme=dark" alt="ompatole's Top Languages" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4493674" style='border:none;'></iframe>
 </p>
