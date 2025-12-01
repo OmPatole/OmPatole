@@ -28,15 +28,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ompatole&show_icons=true&locale=en&theme=dark" alt="ompatole's GitHub Stats" height="150" />
-  &nbsp;
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ompatole&theme=dark" alt="ompatole's GitHub Streak Stats" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ompatole&show_icons=true&locale=en&layout=compact&theme=dark" alt="ompatole's Top Languages" height="150" />
-  &nbsp;
-  <a href="https://tryhackme.com/p/4493674">
-    <img src="https://tryhackme.com/badge/4493674" alt="TryHackMe Badge" height="150" />
-  </a>
-</p>
