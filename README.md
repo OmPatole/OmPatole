@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **My new Skills**
 - 🌱 I’m currently learning **Cybersecurity | Cloud Computing**
 - 🤝 I’m looking for help with **MERN**
-- 👨‍💻 All of my projects are available at [Portfolio](https://ompatole.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ompatole.github.io/Portfoliov2)
 - 💬 Ask me about **React, Bash, Linux, Cloud**
 - 📫 How to reach me `ompatole3030@gmail.com`
 - ⚡ Fun fact **I write code with one hand and try to break it with the other.**
