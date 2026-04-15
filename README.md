@@ -4,8 +4,7 @@
 
 </p>
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30">, I'm Om Patole</h1>
+<h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" align="absmiddle">&nbsp;I'm Om Patole</h1>
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
 
 
