@@ -29,11 +29,7 @@
 
 <p align="left">
 
-  <a href="https://twitter.com/om_patole3030" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="om_patole3030" height="30" /></a>
-
-  <a href="https://linkedin.com/in/om-patole" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="om-patole" height="30" /></a>
-
-  <a href="https://www.leetcode.com/om_patole" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="om_patole" height="30" /></a>
+  <a href="https://twitter.com/om_patole3030" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="om_patole3030" height="30" /></a> <a href="https://linkedin.com/in/om-patole" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="om-patole" height="30" /></a><a href="https://www.leetcode.com/om_patole" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="om_patole" height="30" /></a>
 
 </p>
 
