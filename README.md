@@ -5,6 +5,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Om Patole</h1>
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Interested+in+Research+and+Development;Loves+Working+on+Financial+and+Healthcare+Usecases" alt="Typing SVG" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 - 🔭 I’m currently working on **My new Skills**
 - 🌱 I’m currently learning **Cybersecurity | Cloud Computing**
 - 🤝 I’m looking for help with **MERN**
@@ -28,6 +36,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ompatole&theme=dark" alt="ompatole's GitHub Streak Stats" height="150" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ompatole&theme=dark" alt="ompatole's GitHub Streak Stats" height="150" />
 </p>
-
