@@ -44,7 +44,7 @@
 
   <a href="https://skillicons.dev">
 
-    <img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,cs,css,express,figma,gcp,go,html,java,js,linux,mongodb,mysql,nodejs,python,pytorch,react,tailwind,tensorflow&perline=12" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,cs,css,express,figma,gcp,go,html,java,js,linux,mongodb,mysql,nodejs,python,pytorch,react,tailwind,tensorflow&perline=12" alt="My Skills" />
 
   </a>
 
