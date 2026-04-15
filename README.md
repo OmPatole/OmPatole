@@ -3,8 +3,11 @@
   <img src="./github-header-image.gif" alt="Coding at night animation" width="498">
 
 </p>
+<div align="center">
 
-<h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" align="absmiddle">&nbsp;I'm Om Patole</h1>
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" align="absmiddle">, I'm Om Patole
+
+</div>
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
 
 
