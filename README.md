@@ -3,11 +3,10 @@
   <img src="./github-header-image.gif" alt="Coding at night animation" width="498">
 
 </p>
-<div align="center">
 
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" align="absmiddle">, I'm Om Patole
 
-</div>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Om Patole</h1>
+
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
 
 
@@ -45,7 +44,7 @@
 
   <a href="https://skillicons.dev">
 
-  <img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,cs,css,express,figma,gcp,go,html,java,js,linux,mongodb,mysql,nodejs,python,pytorch,react,tailwind,tensorflow&perline=12" alt="My Skills" />
+   <img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,cs,css,express,figma,gcp,go,html,java,js,linux,mongodb,mysql,nodejs,python,pytorch,react,tailwind,tensorflow&perline=12" alt="My Skills" />
 
   </a>
 
