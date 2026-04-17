@@ -2,7 +2,7 @@
   <img src="./github-header-image.gif" alt="Coding at night animation" width="498">
 </p>
 
-<h1 align="center">Hi, I'm Om Patole</h1>
+<h1 align="center">Hi👋, I'm Om Patole</h1>
 
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
 
