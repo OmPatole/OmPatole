@@ -1,8 +1,24 @@
+<div style="font-family: 'JetBrainsMono Nerd Font', monospace;">
+
+<p align="center">
+  <img src="./.github/assets/readme-aura-component-0-f9df2efb.svg" alt="readme-aura-component-0" />
+</p>
+
+<p align="center">
+  <img src="./.github/assets/readme-aura-component-1-fe291d66.svg" alt="readme-aura-component-1" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ompatole">
+    <img src="https://ghstats.dev/api/card?username=ompatole&theme=catppuccin&hide=trend,avg,active_day,grade,contributions,repos,followers&custom_title=Stats&border_radius=10" alt="GitHub Stats" />
+  </a>
+</p>
+
 <p align="center">
   <img src="./github-header-image.gif" alt="Coding at night animation" width="498">
 </p>
 
-<h1 align="center">Hi👋, I'm Om Patole</h1>
+<h1 align="center">Hi 👋, I'm Om Patole</h1>
 
 <h3 align="center">Building what's next, and securing it on the cloud</h3>
 
@@ -31,3 +47,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ompatole&theme=dark" alt="ompatole's GitHub Streak Stats" height="150" />
 </p>
+
+</div>
